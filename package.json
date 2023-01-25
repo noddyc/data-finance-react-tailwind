@@ -41,5 +41,17 @@
     "autoprefixer": "^10.4.4",
     "postcss": "^8.4.12",
     "tailwindcss": "^3.0.24"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fireclint/data-finance-react-tailwind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fireclint/data-finance-react-tailwind/issues"
+  },
+  "homepage": "https://github.com/fireclint/data-finance-react-tailwind#readme"
 }
